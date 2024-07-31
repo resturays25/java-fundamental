@@ -74,7 +74,6 @@ public class Variable {
 
         //phi=3.14 data static tidak bisa dipassing
 
-        //Passing by Reference
 
     }
 }
